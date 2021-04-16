@@ -34,7 +34,7 @@ My solution is an interesting hand gesture detection programme -- you don't need
 
 #### PART 2: Training and Object Detection
 
-#### For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2
+#### [For more graphic details](https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2)
 
 
 
