@@ -50,10 +50,10 @@ My solution is an interesting hand gesture detection programme -- you don't need
 
 
 ![IMG_9918](https://user-images.githubusercontent.com/69792837/114970875-31de1e00-9e73-11eb-90d0-ce5e9884b654.JPG)
-different hand gestures generated
+#### different hand gestures generated and recorded
 
 ![IMG_9917](https://user-images.githubusercontent.com/69792837/114970900-399dc280-9e73-11eb-9eda-022eb73a5e68.JPG)
-label every photo as i need
+#### label each photo as i need
 
 
 ```
@@ -113,6 +113,7 @@ cv2.destroyAllWindows()
 
 
 <img width="256" alt="Screenshot 2021-04-16 at 02 19 59" src="https://user-images.githubusercontent.com/69792837/114972625-bda57980-9e76-11eb-964d-33b3ad5b286b.png">
+#### a part of training data
 
 
 ```
