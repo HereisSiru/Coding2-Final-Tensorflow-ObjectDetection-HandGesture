@@ -28,7 +28,7 @@ My solution is an interesting hand gesture detection programme -- you don't need
 
 
 
-#### This README file basicly explain the whole work, and I divide the project process into two parts：
+## This README file basicly explain the whole work, and I divide the project process into two parts：
 
 #### PART 1: Image Collection
 
