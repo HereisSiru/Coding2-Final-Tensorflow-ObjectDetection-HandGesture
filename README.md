@@ -2,11 +2,12 @@
 
 
 
-### Why I make it? 
 
-After study term 2 in CCI, i found that i have high curiosity and passion in OpenCV. This field is very strange for me So i start explore it in my final project. Public speaking phobia is a widespread phobia in modern society, i suppose that you may have a friend who also suffering from this common phobia. This is a topic worth discussing .Therefore, I imagine that maybe the topic can be combined with my final project.
+## Why I make it? 
 
-### What is public speaking phobia?
+After study term 2 in CCI, i found that i have high curiosity and passion in OpenCV. This field is very strange for me so i start explore it in my final project. Public speaking phobia is a widespread phobia in modern society, i suppose that you may have a friend who also suffering from this common phobia. This is a topic worth discussing .Therefore, I imagine that maybe the topic can be combined with my final project.
+
+## What is public speaking phobia?
 
 
 ![external-content duckduckgo](https://user-images.githubusercontent.com/69792837/115013196-a7b0ac80-9ea8-11eb-9e74-9a0632b7bd15.gif)
@@ -19,7 +20,7 @@ So the feared situations – such as presentations, wedding speeches, meetings o
 In work situations the fear most commonly occurs around formal presentations and meetings. It can then spread out to smaller groups, to conference calls, to informal situations like one-on-one conversations (especially with more senior people) and to things like introducing oneself on a course. It can then even spill into social situations with friends and family.
 
 
-### What can we do? 
+## What can we do? 
 
 My solution is an interesting hand gesture detection programme -- you don't need say, and i will get what you mean. Not only for those people who suffered from public speaking phobia, we also should consider the non-native speakers who are stuck in other countries in this global pendmic enviroment. In the end, keep social distance is necessary. Base on these situations, I think it makes sense to develop some interesting Sign language.
 
@@ -29,11 +30,11 @@ My solution is an interesting hand gesture detection programme -- you don't need
 
 ### This README file basicly explain the whole work, and I divide the project process into two parts：
 
-PART 1: Image Collection
+### PART 1: Image Collection
 
-PART 2: Training and Object Detection
+### PART 2: Training and Object Detection
 
-For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2
+### For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2
 
 
 
