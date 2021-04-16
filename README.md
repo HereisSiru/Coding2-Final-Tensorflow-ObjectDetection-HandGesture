@@ -8,7 +8,9 @@ After study term 2 in CCI, i found that i have high curiosity and passion in Ope
 
 ### What is public speaking phobia?
 
+
 ![external-content duckduckgo](https://user-images.githubusercontent.com/69792837/115013196-a7b0ac80-9ea8-11eb-9e74-9a0632b7bd15.gif)
+
 
 Public speaking fear and anxiety is a form of social phobia called glossophobia  – an intense and irrational fear of being judged by others when speaking in front of them – or of making mistakes, being embarrassed or humiliated in such situations – causing dread, panic and avoidance.
 
@@ -27,12 +29,11 @@ My solution is an interesting hand gesture detection programme -- you don't need
 
 ### This README file basicly explain the whole work, and I divide the project process into two parts：
 
-##### PART 1: Image Collection
+PART 1: Image Collection
 
-##### PART 2: Training and Object Detection
+PART 2: Training and Object Detection
 
-##### For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2
-
+For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2
 
 
 
@@ -40,7 +41,7 @@ My solution is an interesting hand gesture detection programme -- you don't need
 
 ## PART 1: Image Collection
 
-### This part is eqasier than part 2. I complete the work in: 
+### This part is easier than part 2. I complete the work in: 
 #### 1 clone repo
 #### 2 collect Images(and code)
 #### 3 setup labelImg
