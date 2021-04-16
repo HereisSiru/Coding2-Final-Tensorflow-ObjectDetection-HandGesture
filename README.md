@@ -335,3 +335,7 @@ while cap.isOpened():
         cap.release()
         cv2.destroyAllWindows()
         break
+ ```
+ 
+ <img width="767" alt="Screenshot 2021-04-16 at 16 13 27" src="https://user-images.githubusercontent.com/69792837/115046171-156fcf00-9ecf-11eb-8b5f-fa95f092e36a.png">
+
