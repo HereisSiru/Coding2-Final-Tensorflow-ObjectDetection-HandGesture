@@ -27,11 +27,13 @@ My solution is an interesting hand gesture detection programme -- you don't need
 
 ### This README file basicly explain the whole work, and I divide the project process into two parts：
 
-#### PART 1: Image Collection
+##### PART 1: Image Collection
 
-#### PART 2: Training and Object Detection
+##### PART 2: Training and Object Detection
 
-#### For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2
+##### For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a4891b369fa37d4011cc2
+
+
 
 
 
