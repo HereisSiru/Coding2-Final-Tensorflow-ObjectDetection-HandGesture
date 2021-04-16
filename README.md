@@ -2,11 +2,13 @@
 
 
 
-#### After study term 2 in CCI, i found that i have high curiosity and passion in OpenCV. This field is very strange for me So i start explore it in my final project. Public speaking phobia is a widespread phobia in modern society, i suppose that you may have a friend who also suffering from this common phobia. This is a topic worth discussing .Therefore, I imagine that maybe the topic can be combined with my final project.
+### Why I make it? 
+
+After study term 2 in CCI, i found that i have high curiosity and passion in OpenCV. This field is very strange for me So i start explore it in my final project. Public speaking phobia is a widespread phobia in modern society, i suppose that you may have a friend who also suffering from this common phobia. This is a topic worth discussing .Therefore, I imagine that maybe the topic can be combined with my final project.
 
 ### What is public speaking phobia?
 
-![](https://giphy.com/gifs/panic-paniced-narvous-14oABfwMhnvZfi) 
+![external-content duckduckgo](https://user-images.githubusercontent.com/69792837/115013196-a7b0ac80-9ea8-11eb-9e74-9a0632b7bd15.gif)
 
 Public speaking fear and anxiety is a form of social phobia called glossophobia  – an intense and irrational fear of being judged by others when speaking in front of them – or of making mistakes, being embarrassed or humiliated in such situations – causing dread, panic and avoidance.
 
