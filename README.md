@@ -49,8 +49,10 @@ For more graphic details in : https://www.notion.so/Coding2-Final-61efd8ab0c8a48
 
 
 ![IMG_9918](https://user-images.githubusercontent.com/69792837/114970875-31de1e00-9e73-11eb-90d0-ce5e9884b654.JPG)
+different hand gestures generated
 
 ![IMG_9917](https://user-images.githubusercontent.com/69792837/114970900-399dc280-9e73-11eb-9eda-022eb73a5e68.JPG)
+label every photo as i need
 
 
 ```
@@ -106,7 +108,7 @@ cv2.destroyAllWindows()
 #### 6 update config for transfer learning
 #### 7 train the model 
 #### 8 load train model from checkpoint
-#### 9 Detect from an image
+#### 9 detect from an image
 
 
 <img width="256" alt="Screenshot 2021-04-16 at 02 19 59" src="https://user-images.githubusercontent.com/69792837/114972625-bda57980-9e76-11eb-964d-33b3ad5b286b.png">
